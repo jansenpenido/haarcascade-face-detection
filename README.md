@@ -1,7 +1,7 @@
 # Haar-cascade Face Detection
 
 ## Overview
-This Python application is design to accomplish the following tasks:
+This Python application is designed to accomplish the following tasks:
 1. Open the device's camera.
 2. Identify faces on the image.
 3. Highlight faces with a blue rectangle.
