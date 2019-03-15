@@ -16,6 +16,3 @@ To stop the application, press [Q] on your keyboard.
 ## Dependencies
 * [Numpy](http://www.numpy.org/)
 * [OpenCV](https://opencv.org/)
-
-## Author
-[Jansen Penido](https://about.me/jansen.penido)
